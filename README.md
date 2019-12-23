@@ -1,2 +1,2 @@
-# Enigma
-Implement Enigma in Object oriented Design in C++
+# Enigma-
+implementing Enigma in c++ 
